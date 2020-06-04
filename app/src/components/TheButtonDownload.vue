@@ -2,7 +2,7 @@
   <md-button
     id="button-download"
     @click="downloadZip">
-    TÉLÉCHARGER LES <br> DONNÉES
+    Download the <br> data
     <md-icon>cloud_download</md-icon>
   </md-button>
 </template>

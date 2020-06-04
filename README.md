@@ -1,3 +1,17 @@
+#RESEARCH finding. 
+I'm really interested in this Graph based visualisation. I've spent a little time 
+refactoring some code to change the french in to English. I did not wnat to loose
+sight of this fascinating example. So I cached a copy here in my Repo. 
+
+
+** This is not my work ** 
+
+It is found [here](https://github.com/entrepreneur-interet-general/graph-explorer)
+
+
+
+
+
 # Graph Explorer
 Visualize and explore a large graph of money transactions.
 

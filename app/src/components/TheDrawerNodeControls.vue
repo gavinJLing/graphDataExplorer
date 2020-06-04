@@ -8,7 +8,7 @@
       <div>
         <md-icon>unfold_more</md-icon>
       </div>
-      <div>ÉTENDRE</div>
+      <div>Expand</div>
     </md-button>
     <md-button
       class="md-layout-item"
@@ -16,7 +16,7 @@
       <div>
         <md-icon>visibility_off</md-icon>
       </div>
-      <div>CACHER</div>
+      <div>Hide</div>
     </md-button>
     <md-button
       class="md-layout-item"
@@ -24,7 +24,7 @@
       <div>
         <md-icon>unfold_less</md-icon>
       </div>
-      <div>REPLIER</div>
+      <div>Fold</div>
     </md-button>
   </div>
 </template>
